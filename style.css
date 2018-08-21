@@ -8,6 +8,7 @@
 	padding: top left-right bottom;
 	padding: top-bottom left-right;
 	padding: all;
+	The same with margin
 */
 .list-item {
 	color: red;
@@ -16,5 +17,6 @@
 	padding-right: 16px;
 	padding-top: 16px;
 	padding-bottom: 16px;*/
-	padding: 10px 50px 20px;
+	padding: 10px;
+	margin-bottom: 8px;
 }
