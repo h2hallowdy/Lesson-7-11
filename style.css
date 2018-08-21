@@ -10,6 +10,18 @@
 	padding: all;
 	The same with margin
 */
+/*
+	Syntax for border
+		border-width
+		border-style
+		border-color
+	Shorthand:
+		border:all;
+	Note:
+		border-width: like padding and margin;
+		border-top-width...
+		border-radius
+*/
 .list-item {
 	color: red;
 	font-weight: bold;
@@ -17,6 +29,10 @@
 	padding-right: 16px;
 	padding-top: 16px;
 	padding-bottom: 16px;*/
-	padding: 10px;
+	padding: 16px;
 	margin-bottom: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #49C598;
+	border-radius: 5px;
 }
