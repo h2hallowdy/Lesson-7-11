@@ -52,3 +52,26 @@ body {
 	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,215,255,1) 100%, rgba(0,212,255,1) 100%);
 	color: #FFF;
 }
+
+.list-item-pattern {
+	background-image: url(./pattern.jpg);
+	background-size: 20%;
+	color: #FFF;
+	height: 100px;
+}
+
+.list-item-image {
+	background-image: url(./anime.jpg);
+	height: 100px;
+	color: #F00;
+	background-size: cover;
+	background-position: 0 -500px;
+}
+
+.list-item-parallax {
+	background-image: url(./anime.jpg);
+	height: 100px;
+	color: #F00;
+	background-size: cover;
+	background-attachment: fixed;
+}
